@@ -1,4 +1,8 @@
 <div align="center">
+  <img height="400" width="700" src="https://iphy.com/sV55EUuzbVoAyxzWud.webp"  />
+</div>
+
+<div align="center">
 
 # 👋 Hi, I’m Vũ Đình An  
 
