@@ -6,7 +6,6 @@
 
 # 👋 Hi, I’m Vũ Đình An  
 
-🎓 I’m a **final-year Software Engineering student** at the University of Information Technology (UIT).  
 💻 Passionate about **full-stack web development** and creating scalable, user-friendly applications.  
 ⚙️ I work with **ReactJS, NestJS, NodeJS, Golang, ASP.NET** and love learning new tools & best practices.  
 
